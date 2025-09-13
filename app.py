@@ -9,12 +9,12 @@ based on different Shared Socioeconomic Pathways (SSP) scenarios. It provides an
 interactive map and charts showing both historical data and future projections
 at national and provincial levels.
 
-Original Author: Mounjur Mourshed (mourshedm@cardiff.ac.uk, monjur@mourshed.org)
+Original Author: Monjur Mourshed (mourshedm@cardiff.ac.uk, monjur@mourshed.org)
 Contributors: Oguzhan Gulaydin (GulaydinO@cardiff.ac.uk) - bug fixes and enhancements
 
 License: MIT License
 
-Copyright (c) 2025 Mounjur Mourshed
+Copyright (c) 2025 Monjur Mourshed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
