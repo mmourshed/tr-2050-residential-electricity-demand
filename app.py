@@ -298,7 +298,7 @@ st.markdown("""
 # Citation section
 st.markdown("""
 <div style='background-color: #0E1117; padding: 20px; text-align: left;'>
-    <p style='color: #E0E0E0; margin: 0 0 10px 0; font-size: 1rem; '>Cite this work as: Gulaydin, O., Mourshed, M. (2025). Machine learning for subnational residential electricity demand forecasting to 2050 under shared socioeconomic pathways: Comparing tree-based, neural and kernel methods. <em>Energy</em>, 133837. DOI: <a href='https://doi.org/10.1016/j.energy.2024.133837' target='_blank' style='color: #4CAF50;'>10.1016/j.energy.2024.133837</a></p>
+    <p style='color: #E0E0E0; margin: 0 0 10px 0; font-size: 1rem; '>Cite this work as: Gulaydin, O., Mourshed, M. (2025). Machine learning for subnational residential electricity demand forecasting to 2050 under shared socioeconomic pathways: Comparing tree-based, neural and kernel methods. <em>Energy</em>, 138195. DOI: <a href='https://doi.org/10.1016/j.energy.2025.138195' target='_blank' style='color: #4CAF50;'>10.1016/j.energy.2025.138195</a></p>
 </div>
 """, unsafe_allow_html=True)
 
